@@ -27,7 +27,7 @@
   
 ## Как установить
 
-1. Убедитесь, что у вас установлены OpenGL, GLU и GLUT.
+1. Убедитесь, что у вас установлены OpenGL, GLU и GLUT. Для Linux *sudo apt-get install build-essential libgl1-mesa-dev libglu1-mesa-dev freeglut3-dev*. Для macOs xcode-select --install.
 
 2. Склонируйте репозиторий
 
