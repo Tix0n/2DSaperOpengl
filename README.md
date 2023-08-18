@@ -27,12 +27,20 @@
   
 ## Как установить
 
-1. Убедитесь, что у вас установлены OpenGL, GLU и GLUT. Для Linux *sudo apt-get install build-essential libgl1-mesa-dev libglu1-mesa-dev freeglut3-dev*. Для macOs xcode-select --install.
+1. Убедитесь, что у вас установлены OpenGL, GLU и GLUT.
+  Для Linux:
+  ```
+  sudo apt-get install build-essential libgl1-mesa-dev libglu1-mesa-dev freeglut3-dev
+  ```
+  Для macOs:
+  ```
+  xcode-select --install
+  ```
 
-2. Склонируйте репозиторий
+3. Склонируйте репозиторий
 
-3. Соберите проект при помощи команды *make*
+4. Соберите проект при помощи команды *make*
 
-4. Запустите игру *./minesweeper*
+5. Запустите игру *./minesweeper*
 
-5. Вы великолепны!
+6. Вы великолепны!
