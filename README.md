@@ -17,9 +17,9 @@
 
 ![Начало игры](images/NewGame.png)
 
-Процесс игры:
+Геймплей:
 
-![Процесс игры](images/GameProcess.png)
+![Геймплей](images/GameProcess.png)
 
 Поражение:
 
